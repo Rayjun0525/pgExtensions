@@ -9,4 +9,4 @@ pgadmin4|pgadmin-org|Custom License|[![GitHub Repo stars](https://img.shields.io
 ## Extensions (Engine)
 NAME|ORG / OWNER|License|Star|Fork|URL
 -|-|-|-|-|-
-TimesclaeDB|pgadmin-org|Custom License / Apache-2.0 licenses|[![GitHub Repo stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social)](https://github.com/timescale/timescaledb)|[![GitHub Repo stars](https://img.shields.io/github/forks/timescale/timescaledb?style=social)](https://github.com/timescale/timescaledb)|[https://github.com/timescale/timescaledb](https://github.com/timescale/timescaledb)
+TimesclaeDB|pgadmin-org|Custom / Apache-2.0|[![GitHub Repo stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social)](https://github.com/timescale/timescaledb)|[![GitHub Repo stars](https://img.shields.io/github/forks/timescale/timescaledb?style=social)](https://github.com/timescale/timescaledb)|[https://github.com/timescale/timescaledb](https://github.com/timescale/timescaledb)
