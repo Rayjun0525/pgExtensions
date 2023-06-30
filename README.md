@@ -4,7 +4,7 @@ PostgreSQL Tools & Extensions Gallery
 Tools
 1. [Admin](#Admin)
 1. [Monitoring](#Monitoring)
-1. [Backup & Restore](#Backup-\&-Restore)
+1. [Backup](#Backup)
 1. [Development](#Development)
 
 Extensions
@@ -23,7 +23,7 @@ pgadmin4|pgadmin-org|Custom License|<img src="https://img.shields.io/github/star
 pg-osc|shayonj|MIT License|<img src="https://img.shields.io/github/stars/shayonj/pg-osc">|<img src="https://img.shields.io/github/forks/shayonj/pg-osc">|[https://github.com/shayonj/pg-osc](https://github.com/shayonj/pg-osc)
 postgresqltuner|jfcoz|GPL-3.0 License|<img src="https://img.shields.io/github/stars/jfcoz/postgresqltuner">|<img src="https://img.shields.io/github/forks/jfcoz/postgresqltuner">|[https://github.com/jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner)
 
-### Backup & Restore
+### Backup
 NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Fork&nbsp;&nbsp;&nbsp;&nbsp;|URL
 -|-|-|-|-|-
 pgbackrest|pgbackrest|MIT License|<img src="https://img.shields.io/github/stars/pgbackrest/pgbackrest">|<img src="https://img.shields.io/github/forks/pgbackrest/pgbackrest">|[https://github.com/pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest)
