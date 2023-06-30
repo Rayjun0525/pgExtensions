@@ -5,7 +5,7 @@ PostgreSQL Tools & Extensions Gallery
 ### Admin
 NAME|ORG / OWNER|License|Star|Fork|URL
 -|-|-|-|-|-
-pgadmin4|pgadmin-org|Custom License|[![GitHub Repo stars](https://img.shields.io/github/stars/pgadmin-org/pgadmin4)](https://github.com/pgadmin-org/pgadmin4)|[![GitHub Repo stars](https://img.shields.io/github/forks/pgadmin-org/pgadmin4)](https://github.com/pgadmin-org/pgadmin4)|[https://github.com/pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+pgadmin4|pgadmin-org|Custom License|<img src="https://img.shields.io/github/stars/pgadmin-org/pgadmin4" width="70">|<img src="https://img.shields.io/github/stars/pgadmin-org/pgadmin4" width="70">|[https://github.com/pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
 ### Monitoring
 NAME|ORG / OWNER|License|Star|Fork|URL
@@ -20,7 +20,7 @@ TimesclaeDB|pgadmin-org|Custom / Apache-2.0|[![GitHub Repo stars](https://img.sh
 greenplum-db|greenplum-db|Apache-2.0|[![GitHub Repo stars](https://img.shields.io/github/stars/greenplum-db/gpdb)](https://github.com/greenplum-db/gpdb)|[![GitHub Repo stars](https://img.shields.io/github/forks/greenplum-db/gpdb)](https://github.com/greenplum-db/gpdb)|[https://github.com/greenplum-db/gpdb](https://github.com/greenplum-db/gpdb)
 citus|citusdata|AGPL-3.0|[![GitHub Repo stars](https://img.shields.io/github/stars/citusdata/citus)](https://github.com/citusdata/citus)|[![GitHub Repo stars](https://img.shields.io/github/forks/citusdata/citus)](https://github.com/citusdata/citus)|[https://github.com/citusdata/citus](https://github.com/citusdata/citus)
 
-<img src="https://img.shields.io/github/stars/greenplum-db/gpdb" width="70">
+
 
 ### Replication
 NAME|ORG / OWNER|License|Star|Fork|URL
