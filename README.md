@@ -4,6 +4,7 @@ PostgreSQL Tools & Extensions Gallery
 Tools
 1. [Admin](#Admin)
 1. [Monitoring](#Monitoring)
+1. [Backup & Restore](#Backup-&-Restore)
 1. [Development](#Development)
 
 Extensions
