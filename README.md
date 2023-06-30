@@ -19,6 +19,7 @@ Extensions
 NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Fork&nbsp;&nbsp;&nbsp;&nbsp;|URL
 -|-|-|-|-|-
 pgadmin4|pgadmin-org|Custom License|<img src="https://img.shields.io/github/stars/pgadmin-org/pgadmin4">|<img src="https://img.shields.io/github/forks/pgadmin-org/pgadmin4">|[https://github.com/pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+pg-osc|shayonj|MIT License|<img src="https://img.shields.io/github/stars/shayonj/pg-osc">|<img src="https://img.shields.io/github/forks/shayonj/pg-osc">|[https://github.com/shayonj/pg-osc](https://github.com/shayonj/pg-osc)
 
 ### Monitoring
 NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Fork&nbsp;&nbsp;&nbsp;&nbsp;|URL
