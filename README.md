@@ -1,6 +1,17 @@
 # Site map for PostgreSQL Tools & Extensions
 PostgreSQL Tools & Extensions Gallery
 
+---
+Tools
+- [Admin](#Admin)
+- [Monitoring](#Monitoring)
+
+Extensions
+- [Engine](#Engine)
+- [Replication](#Replication)
+- [Geographic](#Geographic)
+---
+
 ## Tools
 ### Admin
 NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Fork&nbsp;&nbsp;&nbsp;&nbsp;|URL
