@@ -4,12 +4,13 @@ PostgreSQL Tools & Extensions Gallery
 Tools
 1. [Admin](#Admin)
 1. [Monitoring](#Monitoring)
+1. [Development](#Development)
 
 Extensions
 1. [Engine](#Engine)
 1. [Replication](#Replication)
 1. [Geographic](#Geographic)
-1. [DataSearch](#Data-Search)
+1. [Search Engine](#Search-Engine)
 
 ---
 
@@ -25,6 +26,12 @@ NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbs
 eXperDB-Monitoring|experdb|GPL-3.0 License|<img src="https://img.shields.io/github/stars/experdb/eXperDB-Monitoring">|<img src="https://img.shields.io/github/forks/experdb/eXperDB-Monitoring">|[https://github.com/experdb/eXperDB-Monitoring](https://github.com/experdb/eXperDB-Monitoring)
 netdata|netdata|GPL-3.0 License|<img src="https://img.shields.io/github/stars/netdata/netdata">|<img src="https://img.shields.io/github/forks/netdata/netdata">|[https://github.com/netdata/netdata](https://github.com/netdata/netdata)
 
+### Development
+NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Fork&nbsp;&nbsp;&nbsp;&nbsp;|URL
+-|-|-|-|-|-
+supabase|supabase|Apache-2.0|<img src="https://img.shields.io/github/stars/supabase/supabase">|<img src="https://img.shields.io/github/forks/supabase/supabase">|[https://github.com/supabase/supabase](https://github.com/supabase/supabase)
+postgrest|PostgREST|MIT License|<img src="https://img.shields.io/github/stars/PostgREST/postgrest">|<img src="https://img.shields.io/github/forks/PostgREST/postgrest">|[https://github.com/PostgREST/postgrest](https://github.com/PostgREST/postgrest)
+
 ## Extensions
 ### Engine
 NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Fork&nbsp;&nbsp;&nbsp;&nbsp;|URL
@@ -32,6 +39,7 @@ NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbs
 timesclaedb|pgadmin-org|Custom / Apache-2.0|<img src="https://img.shields.io/github/stars/timescale/timescaledb">|<img src="https://img.shields.io/github/forks/timescale/timescaledb">|[https://github.com/timescale/timescaledb](https://github.com/timescale/timescaledb)
 greenplum-db|greenplum-db|Apache-2.0|<img src="https://img.shields.io/github/stars/greenplum-db/gpdb">|<img src="https://img.shields.io/github/forks/greenplum-db/gpdb">|[https://github.com/greenplum-db/gpdb](https://github.com/greenplum-db/gpdb)
 citus|citusdata|AGPL-3.0|<img src="https://img.shields.io/github/stars/citusdata/citus">|<img src="https://img.shields.io/github/forks/citusdata/citus">|[https://github.com/citusdata/citus](https://github.com/citusdata/citus)
+neon|neondatabase|Apache-2.0|<img src="https://img.shields.io/github/stars/neondatabase/neon">|<img src="https://img.shields.io/github/forks/neondatabase/neon">|[https://github.com/neondatabase/neon](https://github.com/neondatabase/neon)
 
 ### Replication
 NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Fork&nbsp;&nbsp;&nbsp;&nbsp;|URL
@@ -46,7 +54,7 @@ NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbs
 -|-|-|-|-|-
 postgis|postgis|GPL-2.0 / Custom License|<img src="https://img.shields.io/github/stars/postgis/postgis">|<img src="https://img.shields.io/github/forks/postgis/postgis">|[https://github.com/postgis/postgis](https://github.com/postgis/postgis)
 
-### Data Search
+### Search Engine
 NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Fork&nbsp;&nbsp;&nbsp;&nbsp;|URL
 -|-|-|-|-|-
-zombodb|zombodb|Apache Version 2.0|<img src="https://img.shields.io/github/stars/zombodb/zombodb">|<img src="https://img.shields.io/github/forks/zombodb/zombodb">|[https://github.com/zombodb/zombodb](https://github.com/zombodb/zombodb)
+zombodb|zombodb|Apache-2.0|<img src="https://img.shields.io/github/stars/zombodb/zombodb">|<img src="https://img.shields.io/github/forks/zombodb/zombodb">|[https://github.com/zombodb/zombodb](https://github.com/zombodb/zombodb)
