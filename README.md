@@ -5,7 +5,7 @@ PostgreSQL Tools & Extensions Gallery
 ### Admin
 NAME|ORG / OWNER|License|Star|Fork|URL
 -|-|-|-|-|-
-pgadmin4|pgadmin-org|Custom License|[![GitHub Repo stars](https://img.shields.io/github/stars/pgadmin-org/pgadmin4?style=plastic)](https://github.com/pgadmin-org/pgadmin4)|[![GitHub Repo stars](https://img.shields.io/github/forks/pgadmin-org/pgadmin4)](https://github.com/pgadmin-org/pgadmin4)|[https://github.com/pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+pgadmin4|pgadmin-org|Custom License|[![GitHub Repo stars](https://img.shields.io/github/stars/pgadmin-org/pgadmin4?style=plastic)](https://github.com/pgadmin-org/pgadmin4)|[![GitHub Repo stars](https://img.shields.io/github/forks/pgadmin-org/pgadmin4?style=flat-square)](https://github.com/pgadmin-org/pgadmin4)|[https://github.com/pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
 ## Extensions
 ### Engine
