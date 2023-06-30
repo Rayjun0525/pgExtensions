@@ -23,7 +23,6 @@ pgadmin4|pgadmin-org|Custom License|<img src="https://img.shields.io/github/star
 ### Monitoring
 NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Fork&nbsp;&nbsp;&nbsp;&nbsp;|URL
 -|-|-|-|-|-
-eXperDB-Monitoring|experdb|GPL-3.0 License|<img src="https://img.shields.io/github/stars/experdb/eXperDB-Monitoring">|<img src="https://img.shields.io/github/forks/experdb/eXperDB-Monitoring">|[https://github.com/experdb/eXperDB-Monitoring](https://github.com/experdb/eXperDB-Monitoring)
 netdata|netdata|GPL-3.0 License|<img src="https://img.shields.io/github/stars/netdata/netdata">|<img src="https://img.shields.io/github/forks/netdata/netdata">|[https://github.com/netdata/netdata](https://github.com/netdata/netdata)
 
 ### Development
