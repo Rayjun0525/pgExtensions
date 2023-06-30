@@ -7,6 +7,11 @@ NAME|ORG / OWNER|License|Star|Fork|URL
 -|-|-|-|-|-
 pgadmin4|pgadmin-org|Custom License|[![GitHub Repo stars](https://img.shields.io/github/stars/pgadmin-org/pgadmin4)](https://github.com/pgadmin-org/pgadmin4)|[![GitHub Repo stars](https://img.shields.io/github/forks/pgadmin-org/pgadmin4)](https://github.com/pgadmin-org/pgadmin4)|[https://github.com/pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
+### Monitoring
+NAME|ORG / OWNER|License|Star|Fork|URL
+-|-|-|-|-|-
+eXperDB-Monitoring|experdb|GPL-3.0 License|[![GitHub Repo stars](https://img.shields.io/github/stars/experdb/eXperDB-Monitoring)](https://github.com/experdb/eXperDB-Monitoring)|[![GitHub Repo stars](https://img.shields.io/github/forks/experdb/eXperDB-Monitoring)](https://github.com/experdb/eXperDB-Monitoring)|[https://github.com/experdb/eXperDB-Monitoring](https://github.com/experdb/eXperDB-Monitoring)
+
 ## Extensions
 ### Engine
 NAME|ORG / OWNER|License|Star|Fork|URL
