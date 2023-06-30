@@ -5,7 +5,7 @@ PostgreSQL Tools & Extensions Gallery
 ### Admin
 NAME|ORG / OWNER|License|Star|Fork|URL
 -|-|-|-|-|-
-pgadmin4|pgadmin-org|Custom License|<img src="https://img.shields.io/github/stars/pgadmin-org/pgadmin4" width="70">|<img src="https://img.shields.io/github/stars/pgadmin-org/pgadmin4" width="70">|[https://github.com/pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+pgadmin4|pgadmin-org|Custom License|<img src="https://img.shields.io/github/stars/pgadmin-org/pgadmin4" width="70">|<img src="https://img.shields.io/github/forks/pgadmin-org/pgadmin4" width="70">|[https://github.com/pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
 ### Monitoring
 NAME|ORG / OWNER|License|Star|Fork|URL
