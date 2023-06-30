@@ -13,6 +13,7 @@ NAME|ORG / OWNER|License|Star|Fork|URL
 -|-|-|-|-|-
 TimesclaeDB|pgadmin-org|Custom / Apache-2.0|[![GitHub Repo stars](https://img.shields.io/github/stars/timescale/timescaledb)](https://github.com/timescale/timescaledb)|[![GitHub Repo stars](https://img.shields.io/github/forks/timescale/timescaledb)](https://github.com/timescale/timescaledb)|[https://github.com/timescale/timescaledb](https://github.com/timescale/timescaledb)
 greenplum-db|greenplum-db|Apache-2.0|[![GitHub Repo stars](https://img.shields.io/github/stars/greenplum-db/gpdb)](https://github.com/greenplum-db/gpdb)|[![GitHub Repo stars](https://img.shields.io/github/forks/greenplum-db/gpdb)](https://github.com/greenplum-db/gpdb)|[https://github.com/greenplum-db/gpdb](https://github.com/greenplum-db/gpdb)
+citus|citusdata|AGPL-3.0|[![GitHub Repo stars](https://img.shields.io/github/stars/citusdata/citus)](https://github.com/citusdata/citus)|[![GitHub Repo stars](https://img.shields.io/github/forks/citusdata/citus)](https://github.com/citusdata/citus)|[https://github.com/citusdata/citus](https://github.com/citusdata/citus)
 
 ### Replication
 NAME|ORG / OWNER|License|Star|Fork|URL
