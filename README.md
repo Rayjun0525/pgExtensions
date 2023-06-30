@@ -3,7 +3,7 @@ PostgreSQL Tools & Extensions Gallery
 
 ## Tools
 ### Admin
-NAME|ORG / OWNER|License|Star|Fork|URL
+NAME|ORG / OWNER|License|* Star *|* Fork *|URL
 -|-|-|-|-|-
 pgadmin4|pgadmin-org|Custom License|<img src="https://img.shields.io/github/stars/pgadmin-org/pgadmin4" width="70">|<img src="https://img.shields.io/github/forks/pgadmin-org/pgadmin4" width="70">|[https://github.com/pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
