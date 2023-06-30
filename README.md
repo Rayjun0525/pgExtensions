@@ -10,3 +10,4 @@ pgadmin4|pgadmin-org|Custom License|[![GitHub Repo stars](https://img.shields.io
 NAME|ORG / OWNER|License|Star|Fork|URL
 -|-|-|-|-|-
 TimesclaeDB|pgadmin-org|Custom / Apache-2.0|[![GitHub Repo stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social)](https://github.com/timescale/timescaledb)|[![GitHub Repo stars](https://img.shields.io/github/forks/timescale/timescaledb?style=social)](https://github.com/timescale/timescaledb)|[https://github.com/timescale/timescaledb](https://github.com/timescale/timescaledb)
+greenplum-db|greenplum-db|Apache-2.0|[![GitHub Repo stars](https://img.shields.io/github/stars/greenplum-db/gpdb?style=social)](https://github.com/greenplum-db/gpdb)|[![GitHub Repo stars](https://img.shields.io/github/forks/greenplum-db/gpdb?style=social)](https://github.com/greenplum-db/gpdb)|[https://github.com/greenplum-db/gpdb](https://github.com/greenplum-db/gpdb)
