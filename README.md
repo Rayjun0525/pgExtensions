@@ -1,5 +1,5 @@
-# Site map for PostgreSQL Extensions
-PostgreSQL Extension Gallery
+# Site map for PostgreSQL Tools & Extensions
+PostgreSQL Tools & Extensions Gallery
 
 ## Administration
 NAME|ORG / OWNER|License|Star|Fork|URL
