@@ -13,6 +13,7 @@ Extensions
 1. [Replication](#Replication)
 1. [Geographic](#Geographic)
 1. [Search Engine](#Search-Engine)
+1. [Science](#Science)
 
 ---
 
@@ -83,7 +84,8 @@ NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbs
 -|-|-|-|-|-
 zombodb|zombodb|Apache-2.0|<img src="https://img.shields.io/github/stars/zombodb/zombodb">|<img src="https://img.shields.io/github/forks/zombodb/zombodb">|[https://github.com/zombodb/zombodb](https://github.com/zombodb/zombodb)
 
-### Math
+### Science
 NAME|ORG/OWNER|License|&nbsp;&nbsp;&nbsp;&nbsp;Star&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Fork&nbsp;&nbsp;&nbsp;&nbsp;|URL
 -|-|-|-|-|-
 pgvector|pgvector|PostgreSQL License|<img src="https://img.shields.io/github/stars/pgvector/pgvector">|<img src="https://img.shields.io/github/forks/pgvector/pgvector">|[https://github.com/pgvector/pgvector](https://github.com/pgvector/pgvector)
+postgresml|postgresml|MIT License|<img src="https://img.shields.io/github/stars/postgresml/postgresml">|<img src="https://img.shields.io/github/forks/postgresml/postgresml">|[https://github.com/postgresml/postgresml](https://github.com/postgresml/postgresml)
